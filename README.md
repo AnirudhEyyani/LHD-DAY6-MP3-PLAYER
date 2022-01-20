@@ -16,5 +16,5 @@ Run the local server inside the client folder
 
 <p align="center">
     <img src="../main/images/mp3desktop.png" width="60%">
-    <img src="../main/images/mp3mobile.png" width="60%">
+    <img src="../main/images/mp3mobile.png" width="20%">
   <p align="center">
